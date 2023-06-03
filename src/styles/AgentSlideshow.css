@@ -1,0 +1,42 @@
+.agent-slideshow-container {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.agent-card {
+  display: flex;
+  align-items: center;
+  background-color: #0f2940;
+  color: #fff;
+  border-radius: 10px;
+  padding: 40px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+.agent-photo {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  margin-right: 40px;
+  object-fit: cover;
+}
+
+.agent-details {
+  flex: 1;
+}
+
+.agent-name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.agent-description {
+  font-size: 18px;
+  line-height: 1.5;
+  max-width: 700px;
+  margin-bottom: 1px;
+  text-align: justify;
+}
