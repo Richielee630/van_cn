@@ -5,7 +5,7 @@ import '../styles/About.css'; // Import the custom About page CSS file
 const About = () => {
   return (
     <div className="about-container">
-      <h1 className="about-title">AGENTS</h1>
+      <h1 className="about-title">ACTIVE DUTY AGENTS</h1>
       <AgentSlideshow />
 
       <div className="about-content">
