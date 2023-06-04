@@ -1,0 +1,37 @@
+/* custom-audio-player.css */
+
+.rhap_container {
+    background-color: #0f2940;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  .rhap_progress-bar {
+    background-color: #fff;
+  }
+  
+  .rhap_progress-filled {
+    background-color: #7f7fff;
+  }
+  
+  .rhap_time {
+    color: #fff;
+  }
+  
+  .rhap_controls {
+    color: #fff;
+  }
+  
+  .rhap_controls-button {
+    color: #fff;
+    opacity: 0.8;
+  }
+  
+  .rhap_volume-bar {
+    background-color: #fff;
+  }
+  
+  .rhap_volume-indicator {
+    background-color: #7f7fff;
+  }
+  
