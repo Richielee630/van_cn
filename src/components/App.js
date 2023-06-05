@@ -11,7 +11,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <div className="App-header-content">
-            VAN_CN global agency, active regions: USA, CHINA, AUSTRALIA, GERMAN
+            VAN_CN global agency, active regions: USA, CHINA, AUSTRALIA, GERMANY
           </div>
         </header>
 
